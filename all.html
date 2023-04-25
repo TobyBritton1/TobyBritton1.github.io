@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News Bias Mapping - All Articles</title>
+    <link rel="stylesheet" href="utilities/styles.css">
+  </head>
+
+  <body>
+    <div class="navigation">  
+      <a href="home.html">Home</a>
+      <a class="active" href="all.html">All Articles</a>
+      <a href="publishers.html">Publishers</a>
+    </div>
+    
+    <center>
+      <h1>News Bias Mapping</h1>
+      <h2>All Articles</h2>
+      <p>Graphs displaying the entire dataset of articles clustered together and the distribution of publishers amongst the clusters</p>
+    </center>
+
+    <hr>
+
+    <canvas id="scatterAll"></canvas>
+    <canvas id="publisherCount"></canvas>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.umd.min.js"></script>    
+
+    <script type="module" src="./graphs/scatterAll.js"></script>
+    <script type="module" src="./graphs/publisherCount.js"></script>
+  </body>
+</html>

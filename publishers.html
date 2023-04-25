@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>News Bias Mapping - Publishers</title>
+    <link rel="stylesheet" href="utilities/styles.css">
+    <script src='https://cdn.plot.ly/plotly-2.20.0.min.js'></script>
+  </head>
+  <body>
+    <div class="navigation">  
+      <a href="home.html">Home</a>
+      <a href="all.html">All Articles</a>
+      <a class="active" href="publishers.html">Publishers</a>
+    </div>
+
+    <center>
+      <h1>News Bias Mapping</h1>
+      <h2>Publishers</h2>
+      <p>Graphs displaying the calculated metric values per publisher and the writing style clusters found in each</p>
+    </center>
+
+    <hr>
+
+    <div class="row">
+      <div class="column" id="publisherMetricsbbc"></div>
+      <div class="column">
+        <canvas id="scatterPublisherbbc"></canvas>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column" id="publisherMetricsdailymail"></div>
+      <div class="column">
+        <canvas id="scatterPublisherdailymail"></canvas>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column" id="publisherMetricstheguardian"></div>
+      <div class="column">
+        <canvas id="scatterPublishertheguardian"></canvas>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column" id="publisherMetricsindependent"></div>
+      <div class="column">
+        <canvas id="scatterPublisherindependent"></canvas>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column" id="publisherMetricsmetro"></div>
+      <div class="column">
+        <canvas id="scatterPublishermetro"></canvas>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column" id="publisherMetricsmirror"></div>
+      <div class="column">
+        <canvas id="scatterPublishermirror"></canvas>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column" id="publisherMetricssky"></div>
+      <div class="column">
+        <canvas id="scatterPublishersky"></canvas>
+      </div>
+    </div>
+    <div class="row">
+      <div class="column" id="publisherMetricssun"></div>
+      <div class="column">
+        <canvas id="scatterPublishersun"></canvas>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/chart.js/dist/chart.umd.min.js"></script>
+    
+    <script type="module" src="./graphs/publisherMetrics.js"></script>
+    <script type="module" src="./graphs/scatterPublisher.js"></script>
+  </body>
+</html>

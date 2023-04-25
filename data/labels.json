@@ -1,0 +1,569 @@
+{
+	"label": {
+		"0": 0,
+		"1": 1,
+		"2": 2,
+		"3": 3,
+		"4": 4,
+		"5": 5,
+		"6": 0,
+		"7": 1,
+		"8": 2,
+		"9": 3,
+		"10": 4,
+		"11": 5,
+		"12": 6,
+		"13": 0,
+		"14": 1,
+		"15": 0,
+		"16": 1,
+		"17": 0,
+		"18": 1,
+		"19": 0,
+		"20": 1,
+		"21": 0,
+		"22": 1,
+		"23": 2,
+		"24": 3,
+		"25": 4,
+		"26": 0,
+		"27": 1,
+		"28": 0,
+		"29": 1,
+		"30": 2,
+		"31": 3,
+		"32": 4,
+		"33": 5
+	},
+	"dominantMetrics": {
+		"0": [
+			[
+				"quoteBased",
+				0.0
+			],
+			[
+				"spin",
+				0.1
+			]
+		],
+		"1": [
+			[
+				"sentiment",
+				0.1
+			],
+			[
+				"sensationalized",
+				0.0
+			],
+			[
+				"mudslinging",
+				0.0
+			]
+		],
+		"2": [
+			[
+				"quoteBased",
+				0.0
+			],
+			[
+				"sensationalized",
+				0.0
+			],
+			[
+				"mudslinging",
+				0.0
+			],
+			[
+				"spin",
+				0.2
+			],
+			[
+				"informal",
+				0.6
+			]
+		],
+		"3": [
+			[
+				"sentiment",
+				1.0
+			]
+		],
+		"4": [
+			[
+				"quoteBased",
+				0.5
+			]
+		],
+		"5": [
+			[
+				"sentiment",
+				0.1
+			],
+			[
+				"quoteBased",
+				0.5
+			],
+			[
+				"sensationalized",
+				0.1
+			],
+			[
+				"mudslinging",
+				0.0
+			]
+		],
+		"6": [
+			[
+				"sentiment",
+				0.0
+			]
+		],
+		"7": [
+			[
+				"sentiment",
+				1.0
+			],
+			[
+				"quoteBased",
+				0.5
+			],
+			[
+				"spin",
+				0.1
+			],
+			[
+				"informal",
+				0.2
+			]
+		],
+		"8": [
+			[
+				"sentiment",
+				1.0
+			]
+		],
+		"9": [
+			[
+				"spin",
+				0.1
+			]
+		],
+		"10": [
+			[
+				"sentiment",
+				0.9
+			],
+			[
+				"sensationalized",
+				0.0
+			],
+			[
+				"mudslinging",
+				0.2
+			],
+			[
+				"spin",
+				0.1
+			],
+			[
+				"informal",
+				0.1
+			]
+		],
+		"11": [
+			[
+				"quoteBased",
+				0.1
+			],
+			[
+				"spin",
+				0.1
+			]
+		],
+		"12": [
+			[
+				"sentiment",
+				0.0
+			],
+			[
+				"quoteBased",
+				0.5
+			],
+			[
+				"sensationalized",
+				0.0
+			],
+			[
+				"informal",
+				0.2
+			]
+		],
+		"13": [
+			[
+				"sentiment",
+				0.9
+			]
+		],
+		"14": [
+			[
+				"sentiment",
+				0.1
+			]
+		],
+		"15": [
+			[
+				"sentiment",
+				0.1
+			]
+		],
+		"16": [
+			[
+				"sentiment",
+				0.9
+			]
+		],
+		"17": [
+			[
+				"sentiment",
+				0.9
+			]
+		],
+		"18": [
+			[
+				"sentiment",
+				0.1
+			]
+		],
+		"19": [
+			[
+				"sentiment",
+				0.9
+			]
+		],
+		"20": [
+			[
+				"sentiment",
+				0.1
+			]
+		],
+		"21": [
+			[
+				"sentiment",
+				0.9
+			],
+			[
+				"spin",
+				0.1
+			]
+		],
+		"22": [
+			[
+				"quoteBased",
+				0.2
+			],
+			[
+				"informal",
+				0.2
+			]
+		],
+		"23": [
+			[
+				"sentiment",
+				0.0
+			]
+		],
+		"24": [
+			[
+				"spin",
+				0.1
+			],
+			[
+				"informal",
+				0.3
+			]
+		],
+		"25": [
+			[
+				"quoteBased",
+				1.0
+			],
+			[
+				"sensationalized",
+				0.0
+			],
+			[
+				"mudslinging",
+				0.7
+			],
+			[
+				"spin",
+				0.1
+			],
+			[
+				"informal",
+				0.2
+			]
+		],
+		"26": [
+			[
+				"sentiment",
+				0.9
+			]
+		],
+		"27": [
+			[
+				"sentiment",
+				0.1
+			]
+		],
+		"28": [
+			[
+				"quoteBased",
+				0.0
+			],
+			[
+				"sensationalized",
+				0.0
+			],
+			[
+				"informal",
+				0.2
+			]
+		],
+		"29": [
+			[
+				"sentiment",
+				0.1
+			],
+			[
+				"sensationalized",
+				0.0
+			]
+		],
+		"30": [
+			[
+				"quoteBased",
+				0.0
+			],
+			[
+				"mudslinging",
+				0.0
+			],
+			[
+				"spin",
+				0.2
+			],
+			[
+				"informal",
+				0.4
+			]
+		],
+		"31": [
+			[
+				"sensationalized",
+				0.0
+			],
+			[
+				"mudslinging",
+				0.1
+			]
+		],
+		"32": [
+			[
+				"quoteBased",
+				0.5
+			]
+		],
+		"33": [
+			[
+				"sentiment",
+				0.1
+			],
+			[
+				"quoteBased",
+				0.4
+			],
+			[
+				"sensationalized",
+				0.0
+			]
+		]
+	},
+	"dominantMetricsWords": {
+		"0": [
+			"very low quoteBased",
+			"very low spin"
+		],
+		"1": [
+			"very low sentiment",
+			"very low sensationalized",
+			"very low mudslinging"
+		],
+		"2": [
+			"very low quoteBased",
+			"very low sensationalized",
+			"very low mudslinging",
+			"very low spin",
+			"medium informal"
+		],
+		"3": [
+			"very high sentiment"
+		],
+		"4": [
+			"medium quoteBased"
+		],
+		"5": [
+			"very low sentiment",
+			"medium quoteBased",
+			"very low sensationalized",
+			"very low mudslinging"
+		],
+		"6": [
+			"very low sentiment"
+		],
+		"7": [
+			"very high sentiment",
+			"medium quoteBased",
+			"very low spin",
+			"low informal"
+		],
+		"8": [
+			"very high sentiment"
+		],
+		"9": [
+			"very low spin"
+		],
+		"10": [
+			"very high sentiment",
+			"very low sensationalized",
+			"low mudslinging",
+			"very low spin",
+			"very low informal"
+		],
+		"11": [
+			"very low quoteBased",
+			"very low spin"
+		],
+		"12": [
+			"very low sentiment",
+			"medium quoteBased",
+			"very low sensationalized",
+			"low informal"
+		],
+		"13": [
+			"very high sentiment"
+		],
+		"14": [
+			"very low sentiment"
+		],
+		"15": [
+			"very low sentiment"
+		],
+		"16": [
+			"very high sentiment"
+		],
+		"17": [
+			"very high sentiment"
+		],
+		"18": [
+			"very low sentiment"
+		],
+		"19": [
+			"very high sentiment"
+		],
+		"20": [
+			"very low sentiment"
+		],
+		"21": [
+			"very high sentiment",
+			"very low spin"
+		],
+		"22": [
+			"very low quoteBased",
+			"low informal"
+		],
+		"23": [
+			"very low sentiment"
+		],
+		"24": [
+			"very low spin",
+			"low informal"
+		],
+		"25": [
+			"very high quoteBased",
+			"very low sensationalized",
+			"high mudslinging",
+			"very low spin",
+			"low informal"
+		],
+		"26": [
+			"very high sentiment"
+		],
+		"27": [
+			"very low sentiment"
+		],
+		"28": [
+			"very low quoteBased",
+			"very low sensationalized",
+			"very low informal"
+		],
+		"29": [
+			"very low sentiment",
+			"very low sensationalized"
+		],
+		"30": [
+			"very low quoteBased",
+			"very low mudslinging",
+			"very low spin",
+			"low informal"
+		],
+		"31": [
+			"very low sensationalized",
+			"very low mudslinging"
+		],
+		"32": [
+			"medium quoteBased"
+		],
+		"33": [
+			"very low sentiment",
+			"medium quoteBased",
+			"very low sensationalized"
+		]
+	},
+	"publisher": {
+		"0": "sun",
+		"1": "sun",
+		"2": "sun",
+		"3": "sun",
+		"4": "sun",
+		"5": "sun",
+		"6": "sky",
+		"7": "sky",
+		"8": "sky",
+		"9": "sky",
+		"10": "sky",
+		"11": "sky",
+		"12": "sky",
+		"13": "independent",
+		"14": "independent",
+		"15": "theguardian",
+		"16": "theguardian",
+		"17": "bbc",
+		"18": "bbc",
+		"19": "dailymail",
+		"20": "dailymail",
+		"21": "mirror",
+		"22": "mirror",
+		"23": "mirror",
+		"24": "mirror",
+		"25": "mirror",
+		"26": "metro",
+		"27": "metro",
+		"28": "all",
+		"29": "all",
+		"30": "all",
+		"31": "all",
+		"32": "all",
+		"33": "all"
+	}
+}
