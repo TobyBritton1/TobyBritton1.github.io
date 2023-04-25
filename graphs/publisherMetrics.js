@@ -30,9 +30,9 @@ for (var i = 0; i < publisherMetrics.length; i++) {
     boxpoints: false
   };
 
-  var sensationalized = {
-    y: publisherMetrics[i]['sensationalized'],
-    name: 'sensationalized',
+  var sensationalised = {
+    y: publisherMetrics[i]['sensationalised'],
+    name: 'sensationalised',
     marker: {color: colours[2]},
     type: 'box',
     boxpoints: false
@@ -63,7 +63,7 @@ for (var i = 0; i < publisherMetrics.length; i++) {
   };
 
 
-  var data = [sentiment, quoteBased, sensationalized, spin, mudslinging, informal];
+  var data = [sentiment, quoteBased, sensationalised, spin, mudslinging, informal];
 
   var layout = {
     title: 'Publisher Metric Distribution: ' + publisherMap[publisherMetrics[i]['publisher']],
