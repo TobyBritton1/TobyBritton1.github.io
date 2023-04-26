@@ -52,7 +52,7 @@
 				0.1
 			],
 			[
-				"sensationalized",
+				"sensationalised",
 				0.0
 			],
 			[
@@ -66,7 +66,7 @@
 				0.0
 			],
 			[
-				"sensationalized",
+				"sensationalised",
 				0.0
 			],
 			[
@@ -104,7 +104,7 @@
 				0.5
 			],
 			[
-				"sensationalized",
+				"sensationalised",
 				0.1
 			],
 			[
@@ -154,7 +154,7 @@
 				0.9
 			],
 			[
-				"sensationalized",
+				"sensationalised",
 				0.0
 			],
 			[
@@ -190,7 +190,7 @@
 				0.5
 			],
 			[
-				"sensationalized",
+				"sensationalised",
 				0.0
 			],
 			[
@@ -288,7 +288,7 @@
 				1.0
 			],
 			[
-				"sensationalized",
+				"sensationalised",
 				0.0
 			],
 			[
@@ -322,7 +322,7 @@
 				0.0
 			],
 			[
-				"sensationalized",
+				"sensationalised",
 				0.0
 			],
 			[
@@ -336,7 +336,7 @@
 				0.1
 			],
 			[
-				"sensationalized",
+				"sensationalised",
 				0.0
 			]
 		],
@@ -360,7 +360,7 @@
 		],
 		"31": [
 			[
-				"sensationalized",
+				"sensationalised",
 				0.0
 			],
 			[
@@ -384,7 +384,7 @@
 				0.4
 			],
 			[
-				"sensationalized",
+				"sensationalised",
 				0.0
 			]
 		]
@@ -396,12 +396,12 @@
 		],
 		"1": [
 			"very low sentiment",
-			"very low sensationalized",
+			"very low sensationalised",
 			"very low mudslinging"
 		],
 		"2": [
 			"very low quoteBased",
-			"very low sensationalized",
+			"very low sensationalised",
 			"very low mudslinging",
 			"very low spin",
 			"medium informal"
@@ -415,7 +415,7 @@
 		"5": [
 			"very low sentiment",
 			"medium quoteBased",
-			"very low sensationalized",
+			"very low sensationalised",
 			"very low mudslinging"
 		],
 		"6": [
@@ -435,7 +435,7 @@
 		],
 		"10": [
 			"very high sentiment",
-			"very low sensationalized",
+			"very low sensationalised",
 			"low mudslinging",
 			"very low spin",
 			"very low informal"
@@ -447,7 +447,7 @@
 		"12": [
 			"very low sentiment",
 			"medium quoteBased",
-			"very low sensationalized",
+			"very low sensationalised",
 			"low informal"
 		],
 		"13": [
@@ -491,7 +491,7 @@
 		],
 		"25": [
 			"very high quoteBased",
-			"very low sensationalized",
+			"very low sensationalised",
 			"high mudslinging",
 			"very low spin",
 			"low informal"
@@ -504,12 +504,12 @@
 		],
 		"28": [
 			"very low quoteBased",
-			"very low sensationalized",
+			"very low sensationalised",
 			"very low informal"
 		],
 		"29": [
 			"very low sentiment",
-			"very low sensationalized"
+			"very low sensationalised"
 		],
 		"30": [
 			"very low quoteBased",
@@ -518,7 +518,7 @@
 			"low informal"
 		],
 		"31": [
-			"very low sensationalized",
+			"very low sensationalised",
 			"very low mudslinging"
 		],
 		"32": [
@@ -527,7 +527,7 @@
 		"33": [
 			"very low sentiment",
 			"medium quoteBased",
-			"very low sensationalized"
+			"very low sensationalised"
 		]
 	},
 	"publisher": {
